@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+aiohttp==3.9.1
+chromadb==0.4.24
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+asyncssh>=2.14.0
